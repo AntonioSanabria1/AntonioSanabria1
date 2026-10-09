@@ -1,54 +1,54 @@
-# Antonio Sanabria
+# José Antonio Sanabria
 
-**Cloud Infrastructure · Platform Engineering · DevOps**
-
-Building reliable systems through automation, infrastructure, and distributed computing.
+Building reliable infrastructure through automation, systems engineering, and distributed computing. Focused on cloud infrastructure, platform engineering, and DevOps.
 
 ---
-
-## About Me
-
-I'm a Computer Science graduate student at CINVESTAV, interested in designing, automating, and operating reliable computing infrastructure.
-
-My current focus is **Cloud Engineering, Platform Engineering, and DevOps**, with an emphasis on Linux systems, infrastructure automation, containers, and distributed systems.
-
-I enjoy understanding how systems work under the hood and turning that knowledge into practical, well-documented projects.
 
 ## Technical Focus
 
-- **Systems:** Linux, shell scripting, system administration
-- **Infrastructure:** Networking fundamentals, virtualization, containers
-- **Automation:** Python, Bash, infrastructure as code
-- **Platform Engineering:** Docker, Kubernetes, CI/CD, observability
-- **Cloud:** Cloud infrastructure and deployment automation
-- **Distributed Computing:** Hadoop, cluster architecture, high-performance computing
+### Cloud Infrastructure
 
-*This list represents my technical interests and learning roadmap, not a claim of equal proficiency in every technology.*
+Cloud environments, infrastructure provisioning, deployment automation, and reliable system architecture.
 
-## Selected Projects
+### Platform Engineering
 
-### HadoopMatrix — Multi-Node HPC Cluster
+Developer platforms, container orchestration, infrastructure abstractions, and reproducible environments.
 
-A distributed Hadoop cluster using HDFS, YARN, and Docker, designed to explore cluster deployment and distributed computing over a network.
+### DevOps & Automation
 
-[View repository](https://github.com/AntonioSanabria1/HadoopMatrix-MultiNode_HPC_Cluster)
+Linux administration, scripting, CI/CD pipelines, configuration management, and infrastructure as code.
 
-## Currently Learning
+### Distributed Systems
 
-- Linux administration and networking
-- Docker and container orchestration
-- Cloud infrastructure and infrastructure as code
-- CI/CD pipelines and deployment automation
-- Monitoring, observability, and system reliability
-
-## Engineering Principles
-
-- Automate repetitive tasks.
-- Document infrastructure and design decisions.
-- Prefer reproducible deployments.
-- Measure system behavior instead of relying on assumptions.
-- Build systems that are maintainable and reliable.
+Cluster architecture, resource management, parallel computing, and the foundations of scalable infrastructure.
 
 ---
 
-*Learning by building. Improving through experimentation.*
+## Current Learning
+
+- Linux systems administration and networking
+- Containerization with Docker
+- Kubernetes and container orchestration
+- Infrastructure as Code with Terraform
+- CI/CD, monitoring, and observability
+- Cloud architecture and platform operations
+
+---
+
+## Philosophy
+
+Understand the system. Automate the process. Measure the results.
+
+I believe reliable infrastructure starts with understanding how systems behave, documenting decisions, and continuously improving through experimentation.
+
+---
+
+## About
+
+Graduate student in Computer Science at CINVESTAV, with an academic background in Physics and Computer Science.
+
+Interested in the engineering behind reliable computing environments, from operating systems and distributed computing to cloud platforms and infrastructure automation.
+
+---
+
+*Learning by building. Engineering with purpose.*
