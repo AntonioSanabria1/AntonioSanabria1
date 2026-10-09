@@ -1,4 +1,4 @@
-# José Antonio Sanabria
+# Antonio Sanabria
 
 Building reliable infrastructure through automation, systems engineering, and distributed computing. Focused on cloud infrastructure, platform engineering, and DevOps.
 
